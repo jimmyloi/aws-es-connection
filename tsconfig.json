@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["es6", "es5"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "declaration": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "sourceMap": false,
+    "target": "es6",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "compileOnSave": true
+}
